@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.1.apk",
-  "sha256": "f355f6f9fbbd14ee247586d13c29735b7ae01b66df0a861614a360ce6669deb8",
-  "notes": "首个在线更新版本: 音源精简为 网易云/B站/酷我, 进度不再丢, 歌单可删可改名, 刷音乐更顺",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.2.apk",
+  "sha256": "7d3d339512b36377e823c06a96837e6e44736fdf9df9dbb0c947e728c0fc814e",
+  "notes": "修: 打开就闪退(更新检查读到未初始化的状态)。若你装的 1.0.1 一开就退, 就是这条。",
   "force": false
 }
