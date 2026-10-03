@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.4.apk",
-  "sha256": "965f9cdc05060083447271362f95ed1916d6e79d3e20b98d779ba315603f4ad3",
-  "notes": "更新弹窗改版: 按钮改上下通栏, 「以后再说」不再被挤成一个点; 点它只跳过这一次, 下次打开照样提示",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.5.apk",
+  "sha256": "2963bbc0491f390c8fdf381dde107fe8cbb7ba3343cd956b234a33e16ea77abb",
+  "notes": "更新检查双通道: 自动检查走 CDN(稳, 最晚 5 分钟), 手动检查先回源(立刻); 弹窗按钮上下通栏, 以后再说不再被裁",
   "force": false
 }
