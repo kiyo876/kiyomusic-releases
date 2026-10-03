@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.6.apk",
-  "sha256": "e7b8061399573dcdaeb7aefcea16407f09afc44f928e955cfd5472b4486d6594",
-  "notes": "更新检查加 jsDelivr 备用线路(raw 在国内时通时不通); 多来源取版本号最高的那条",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.7.apk",
+  "sha256": "822113dd951db7b4e267f2b6eeaa91f00d244514e059be8866c1eca397b221c2",
+  "notes": "更新检查: 清单请求 6 秒超时, 某个来源不通立刻换下一个, 不用干等",
   "force": false
 }
