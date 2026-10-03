@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.2.apk",
-  "sha256": "7d3d339512b36377e823c06a96837e6e44736fdf9df9dbb0c947e728c0fc814e",
-  "notes": "修: 打开就闪退(更新检查读到未初始化的状态)。若你装的 1.0.1 一开就退, 就是这条。",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.3.apk",
+  "sha256": "179b8acf67b31dce6cd9ea92a9e80f5c1738de894ea6e1177de56366b2efa86b",
+  "notes": "更新检查更可靠: 绕过 CDN 缓存(刚发的版本当场就能查到); 手动检查失败会说实话, 不再把断网说成已是最新",
   "force": false
 }
