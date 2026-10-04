@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.7.apk",
-  "sha256": "822113dd951db7b4e267f2b6eeaa91f00d244514e059be8866c1eca397b221c2",
-  "notes": "更新检查: 清单请求 6 秒超时, 某个来源不通立刻换下一个, 不用干等",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/kiyo876/kiyomusic-releases/main/apk/kiyomusic-1.0.0.apk",
+  "sha256": "346bb16faeeb3a92916ca9e23b9a503eae0165130dc18e13a6fedb4fa9920c1d",
+  "notes": "KiyoWatch 首个版本: 独立实现, MIT 许可, 包名 com.kiyo.watchmusic",
   "force": false
 }
